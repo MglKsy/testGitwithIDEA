@@ -5,5 +5,6 @@ public class MyTest {
         System.out.println("the_third");
         System.out.println("hot_fix_the_first");
         System.out.println("master_test");
+        System.out.println("hot_fix_test");
     }
 }
