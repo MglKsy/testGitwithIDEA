@@ -7,5 +7,6 @@ public class MyTest {
         System.out.println("master_test");
         System.out.println("hot_fix_test");
         System.out.println("test IDEA push");
+        Systme.out.println("test IDEA pull");
     }
 }
