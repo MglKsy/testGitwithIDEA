@@ -8,5 +8,6 @@ public class MyTest {
         System.out.println("hot_fix_test");
         System.out.println("test IDEA push");
         System.out.println("test IDEA pull");
+        System.out.println("===============测试一下账号");
     }
 }
